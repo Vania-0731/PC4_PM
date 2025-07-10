@@ -167,15 +167,5 @@ buildFeatures {
 
 ## 👨‍💻 Autor
 
-**Vania Sifuentes** - Estudiante de Programación Móvil
+**Vania Sifuentes** 
 
-## 📄 Licencia
-
-Este proyecto es parte del laboratorio de Programación Móvil y está destinado únicamente para fines educativos.
-
----
-
-**Fecha de Creación**: Julio 2025  
-**Versión**: 1.0  
-**Plataforma**: Android  
-**Lenguaje**: Kotlin 
